@@ -1,2 +1,3 @@
 # MontyHallProblem
-Simple example of the Monty Hall Problem in Java
+Simple Java implementation of a classic.
+See http://en.wikipedia.org/wiki/Monty_Hall_problem for details
